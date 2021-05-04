@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrMikaelDev
+- 👀 I’m interested in computer and Linux stuff.
+- 🌱 I’m currently learning all things I still don't know about Linux.
+- 💞️ I’m looking to collaborate on anything only if it's open source.
